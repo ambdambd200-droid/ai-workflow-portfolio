@@ -46,5 +46,5 @@ _Coming soon — real-world automation case studies will be added here._
 ## 📫 Contact
 
 - **GitHub**: [github.com/alaafathi](https://github.com/alaafathi)
-- **Email**: ambdambd@gmail.com
+- **Email**: ambdambd200@gmail.com
 - **Platforms**: Working Nomads · We Work Remotely · LinkedIn
